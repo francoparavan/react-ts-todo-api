@@ -1,19 +1,19 @@
-# Crear un TodoMVC con TypeScript
+# Create a TodoMVC with TypeScript
 
-- [x] Inicializar proyecto con Vite
-- [x] Añadir linter para TypeScript + React
-- [x] Añadir estilos del TodoMVC
-- [x] Listar todos los TODOs
-- [x] Poder borrar un TODO
-- [x] Marcar TODO como completado
-- [x] Amadir forma de filtrar TODOs (Footer)
-- [x] Mostrar número de TODOs pendientes (Footer)
-- [x] Añadir forma de borrar todos los TODOs completados
-- [x] Crear Header con input (Header)
-- [x] Crear un TODO (Header)
-- [ ] Poder editar el texto de un TODO (Doble click)
-- [ ] Añadir animaciones con AutoAnimate
-- [ ] Pasar a Reducer
-- [ ] Sincronizar con el backend
+- [x] Initialise the project with Vite
+- [x] Add a linter for TypeScript + React
+- [x] Add TodoMVC styles
+- [x] List all TODOs
+- [x] Be able to delete a TODO
+- [x] Mark a TODO as completed
+- [x] Add a way to filter TODOs (Footer)
+- [x] Display the number of pending TODOs (Footer)
+- [x] Add a way to delete all completed TODOs
+- [x] Create a Header with an input field (Header)
+- [x] Create a TODO (Header)
+- [ ] Be able to edit a TODO’s text (Double click)
+- [ ] Add animations with AutoAnimate
+- [ ] Refactor to use a Reducer
+- [ ] Sync with the backend
 
 https://rb.gy/fpw4fp
